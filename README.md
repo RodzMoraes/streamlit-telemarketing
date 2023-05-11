@@ -2,6 +2,10 @@
 
 Um simples resumo do uso/propósito do projeto.
 
+## Acessar o projeto
+
+Visualizar o resultado final disponível em: https://streamlit-telemarketing.onrender.com
+
 ## Descrição do projeto
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
